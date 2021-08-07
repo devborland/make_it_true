@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Bit extends StatefulWidget {
-  Bit();
+  const Bit();
 
   @override
   _BitState createState() => _BitState();

@@ -7,4 +7,4 @@ class Game {
   bool result = false;
 }
 
-enum Rules { AND, OR, NOT }
+enum Rules { and, or, not }
